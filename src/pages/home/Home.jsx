@@ -1,11 +1,13 @@
 const Home = () => {
   return (
-    <div>
-      <div className="mx-auto max-w-2xl py-32 ">
+    <div className="pb-[15%] h-screen w-screen flex justify-center items-center">
+      <div className=" mx-auto max-w-2xl">
         <div className="sm:mb-8 flex justify-center items-center">
           <div className="">
             <img
-              src="https://lyricstranslate.com/files/styles/artist/public/355800515b4b61f3d5908a1f82894f19_0.jpg"
+              width="250px"
+              height="auto"
+              src="./src/assets/img1.jpg"
               alt=""
             />
           </div>

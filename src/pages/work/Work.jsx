@@ -1,7 +1,7 @@
 const Work = () => {
   return (
-    <div className=" py-32 ">
-      <div className="p-10 flex flex-wrap justify-between">
+    <div className="pb-[15%] h-screen w-screen flex justify-center items-center ">
+      <div className=" flex flex-wrap justify-between">
         <div className="w-full md:w-1/3 p-4">
           <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="#">
