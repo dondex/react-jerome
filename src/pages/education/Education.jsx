@@ -13,24 +13,17 @@ const Education = () => {
               </h6>
               <ul className="p-5 mb-3 font-normal text-gray-700 dark:text-gray-400 list-decimal">
                 <li>
-                  Best in Lorem ipsum, dolor sit amet consectetur adipisicing
-                  elit. Totam, similique!
+                  PHINMAUniversity of Pangasinan - UNDERGRADUATE
                 </li>
                 <li>
-                  Best in Lorem ipsum, dolor sit amet consectetur adipisicing
-                  elit. Totam, similique!
+                  Mangaldan National Highschool(SHS)-2021
                 </li>
                 <li>
-                  Best in Lorem ipsum, dolor sit amet consectetur adipisicing
-                  elit. Totam, similique!
+                Mangaldan National Highschool(JHS)-2019
                 </li>
                 <li>
-                  Best in Lorem ipsum, dolor sit amet consectetur adipisicing
-                  elit. Totam, similique!
-                </li>
-                <li>
-                  Best in Lorem ipsum, dolor sit amet consectetur adipisicing
-                  elit. Totam, similique!
+                  Baguio Central School(Elementary) -2015
+             
                 </li>
               </ul>
             </div>
